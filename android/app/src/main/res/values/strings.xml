@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">cap-native-build</string>
+    <string name="title_activity_main">cap-native-build</string>
+    <string name="package_name">com.technyks.capnativebuild</string>
+    <string name="custom_url_scheme">com.technyks.capnativebuild</string>
+</resources>
